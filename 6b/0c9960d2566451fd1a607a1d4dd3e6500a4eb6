@@ -1,0 +1,16 @@
+spring-integration-kafka/src/main/java/org/springframework/integration/kafka/inbound/KafkaMessageSource.java
+  h_19ae496347280f 99,697
+spring-integration-kafka/src/test/java/org/springframework/integration/kafka/inbound/MessageSourceTests.java
+  h_19ae496347280f 53,85,618-619,621,627-628,632,638-639
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "6b0c9960d2566451fd1a607a1d4dd3e6500a4eb6",
+  "prompts": {},
+  "humans": {
+    "h_19ae496347280f": {
+      "author": "Fernando Blanch Calvete <fernandobc@ext.inditex.com>"
+    }
+  }
+}
